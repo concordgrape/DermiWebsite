@@ -143,6 +143,36 @@
     }
   }
 
+  @media only screen and (max-width: 400px) {
+    .backgroundImg {
+      width: 415px;
+      height: 239px;
+    }
+
+    .mainHeader {
+      top: 70px;
+      left: 120px;
+      font-size: 50px;
+    }
+
+    .subHeader {
+      top: 150px;
+      left: 70px;
+      font-size: 10px;
+    }
+
+    .downloadImg {
+      left: 40px;
+    }
+
+    .screenshot {
+      top: 50px;
+      left: 370px;
+      width: 139px;
+      height: 258px;
+    }
+  }
+
 
   @media only screen and (min-width: 1500px) {
 
